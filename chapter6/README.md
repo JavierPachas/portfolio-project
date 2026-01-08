@@ -22,9 +22,10 @@ accessing data from our fantasy football website, www.sportsworldcentral.com.
 - [Software Development Kit (SDK)](#software-development-kit-sdk)
 
 ## Public API
-*Coming Soon*
+Our API is hosted at https://fantasyfootball-api-service-9n5k.onrender.com/.  
+You can access the interactive documentation at [https://fantasyfootball-api-service-9n5k.onrender.com/docs](https://fantasyfootball-api-service-9n5k.onrender.com/docs).  
+You can view the OpenAPI Specification (OAS) file at [https://fantasyfootball-api-service-9n5k.onrender.com/openapi.json](https://fantasyfootball-api-service-9n5k.onrender.com/openapi.json).
 
-We'll be deploying our application soon. Check back for the public API address.
 
 ## Getting Started
 
